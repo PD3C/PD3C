@@ -2,7 +2,7 @@
 
 Meu nome é Pamela Evelly
 
-- Estou no [Alura](htts://www.alura.com.br)
+- Estou no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na Linguagem Javascript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
